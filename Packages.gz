@@ -1,1 +1,12 @@
-
+Package: com.example.GuldPan
+Version: 2.03
+Architecture: iphoneos-arm
+Filename: debs/Guldpan_2_0-3_iphoneos-arm.deb
+Package: com.example.SiriPort6.1x
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: debs/SiriPort_iOS6_1_x_Original.deb
+Package: com.example.SiriFlipswitch
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: debs/flipswitchsiri_0.0.1-1.deb
